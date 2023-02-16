@@ -6,7 +6,7 @@ public class Person {
     String HomeAdd;
     String workAdd;
     int cellNum;
-    int homeNum;
+    int homeNum; 
 
     giveInfo();
 
